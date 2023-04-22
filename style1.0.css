@@ -1,0 +1,63 @@
+        #clr1 {
+
+            background-color: #ff4d4d;
+
+            border: red;
+
+        }
+
+        #clr2 {
+
+            background-color: #ff4d4d;
+
+            border: red;
+
+        }
+
+        #clrRes {
+
+            background-color: #ff4d4d;
+
+            border: red;
+
+        }
+
+        #resInt[readonly] {
+
+            background-color: #f2f2f2;
+
+            cursor: default;
+
+        }
+
+        #addI {
+
+            height: 65px;
+
+            width: 35px;
+
+        }
+
+        #subI {
+
+            height: 65px;
+
+            width: 35px;
+
+        }
+
+        #mulI {
+
+            height: 65px;
+
+            width: 35px;
+
+        }
+
+        #divI {
+
+            height: 65px;
+
+            width: 35px;
+
+        }
